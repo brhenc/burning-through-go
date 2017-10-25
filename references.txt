@@ -1,0 +1,9 @@
+A pile of resources, unfiltered:
+
+https://tour.golang.org/welcome/1
+https://github.com/golang/go/wiki/Learn
+
+
+Good resources that don't waste my time:
+https://gobyexample.com
+Just awesome. I'll gobyexample first.

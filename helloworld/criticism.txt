@@ -1,0 +1,5 @@
+Comments in go:
+//
+/* */
+
+So C++ and C (// was added in one of the newer C standards) style comments
