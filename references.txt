@@ -7,3 +7,10 @@ https://github.com/golang/go/wiki/Learn
 Good resources that don't waste my time:
 https://gobyexample.com
 Just awesome. I'll gobyexample first.
+https://github.com/projectatomic/buildah
+packages by two distros, so it's actually usable code.
+
+
+Other code:
+http://rodaine.com/2017/05/x-files-intro/
+
