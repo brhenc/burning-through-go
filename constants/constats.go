@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "math" 
+import "math"
 
 const s string = "constant"
 
